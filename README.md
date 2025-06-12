@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<a href="//imgur.com/a/hwM3QBH"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>/>
+https://imgur.com/a/hwM3QBH
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [ScreenToGif]  
